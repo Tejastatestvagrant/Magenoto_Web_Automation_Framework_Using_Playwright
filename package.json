@@ -1,0 +1,14 @@
+{
+  "name": "magenoto_web_automation_framework_using_playwright",
+  "version": "1.0.0",
+  "description": "using playwright Framework builted framework",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.10"
+  }
+}
